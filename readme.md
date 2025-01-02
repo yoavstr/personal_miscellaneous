@@ -38,9 +38,10 @@ Script used to organize your PC's downloads section. Seperating into these categ
 
 ---
 
-To remember for later:
+**To remember for later:**
 
 python -m venv PM
+
 PM\Scripts\activate
 
 ***Enjoy :)***
